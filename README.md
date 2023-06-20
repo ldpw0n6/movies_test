@@ -3,7 +3,7 @@
 An application to visualize popular movies
 
 ## Application Views
-https://raw.githubusercontent.com/ldpw0n6/movies_test/master/examples
+(https://raw.githubusercontent.com/ldpw0n6/movies_test/master/examples)
 
 ## Getting Started
 
