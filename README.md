@@ -11,10 +11,9 @@ An application to visualize popular movies
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
+- First you need to download the code from the repository to your computer.
+- Then go to the project folder, open the android folder and in the key.properties file change the current path to your project path
+- Open a terminal console at the root of the project and run the flutter build apk command
+- When the command finishes it will find the app in the path build\app\outputs\flutter-apk\app-release.apk inside the project
+- Copy the app to your android device and install it
+- and that's it. I hope it will be useful for you
