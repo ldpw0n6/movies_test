@@ -3,7 +3,11 @@
 An application to visualize popular movies
 
 ## Application Views
-(https://raw.githubusercontent.com/ldpw0n6/movies_test/master/examples)
+![Home View](https://github.com/ldpw0n6/movies_test/blob/master/examples/view5.jpg)
+![Popular Movies Grid](https://github.com/ldpw0n6/movies_test/blob/master/examples/view4.jpg)
+![Popular Movies Swiper](https://github.com/ldpw0n6/movies_test/blob/master/examples/view1.jpg)
+![Popular Movies Details1](https://github.com/ldpw0n6/movies_test/blob/master/examples/view3.jpg)
+![Popular Movies Details2](https://github.com/ldpw0n6/movies_test/blob/master/examples/view2.jpg)
 
 ## Getting Started
 
